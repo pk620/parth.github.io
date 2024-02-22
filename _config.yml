@@ -1,9 +1,9 @@
-title: Rishabh Agarwal # your name (or website title) here
+title: Parth Kumar # your name (or website title) here
 logo: "/images/my_pic.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and machine learning and is eager to learn more through an internship
+  Aspiring software engineer looking for enhanced real-world experience. Has experience with Python and HTML.
   <br><br>
-  <a href="https://www.linkedin.com/in/rishabh-agarwal-a5b78121b">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/parthkumar12/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
